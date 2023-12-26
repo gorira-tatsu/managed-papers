@@ -1,0 +1,15 @@
+{
+  "version": "3",
+  "remote": {
+    "https://deno.land/x/date_fns@v2.15.0/_lib/addLeadingZeros/index.js": "2678175ae21bc13620cba3b46d0d82ce79569989e8a250893a0509091b8ec670",
+    "https://deno.land/x/date_fns@v2.15.0/_lib/format/lightFormatters/index.js": "983da47ca7bee20bf418634ab4855e25a7bf7476b50f52145f02e0159126fc2e",
+    "https://deno.land/x/date_fns@v2.15.0/_lib/getTimezoneOffsetInMilliseconds/index.js": "e41d3ec801898b3becca059a43ed5a29c77c8be488e4cb5358a791cba1e4a5f8",
+    "https://deno.land/x/date_fns@v2.15.0/_lib/requiredArgs/index.js": "44c517b5d588afb38b4474d924d6fdd4657032b68fde4129dc633daa06f9e762",
+    "https://deno.land/x/date_fns@v2.15.0/_lib/toInteger/index.js": "901c26d00ba9db574e25ad31dedfad87aad17a47771a5f9bb2ff5589b3fcb8d2",
+    "https://deno.land/x/date_fns@v2.15.0/addMilliseconds/index.js": "b6881fc60fd8b6e4a622d62e3411c9ac37032e653f94800b9e0b689b2fefa4ba",
+    "https://deno.land/x/date_fns@v2.15.0/isValid/index.js": "af20dcc26a8828875f2a0a98537ba978abc43a4648acbc9321f3d5588c4dbee1",
+    "https://deno.land/x/date_fns@v2.15.0/lightFormat/index.js": "637c98a7dc9fb50f3ff435894b96df432cd3414f88bb967682bc8af3a3e96087",
+    "https://deno.land/x/date_fns@v2.15.0/subMilliseconds/index.js": "6b72e0b48f92e5a52afffe9a474104eba5c8019e634c1bb869a1ea3bd9abf1a2",
+    "https://deno.land/x/date_fns@v2.15.0/toDate/index.js": "aaf7583048e0187f55bea79882b27486b149a3e295fc0d115d7e2142e8a7cf78"
+  }
+}
